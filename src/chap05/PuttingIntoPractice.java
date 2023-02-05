@@ -96,7 +96,7 @@ public class PuttingIntoPractice {
         Optional<Transaction> min2 = transactions.stream()
                 .min(comparing(Transaction::getValue));
         System.out.println("min2 = " + min2);
-        
+
 
         //comment 8-3
         // 가장 작은 값을 가진 거래 탐색
