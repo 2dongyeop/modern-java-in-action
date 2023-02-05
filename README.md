@@ -9,3 +9,4 @@
 - #### [2장. 동작 파라미터화 코드 전달하기](https://leedongyeop.notion.site/chapter-2-d1f80eb20a204fe68649f94d194b4cf0)
 - #### [3장. 람다 표현식](https://leedongyeop.notion.site/chapter-3-8709c08400bb4042817db74cb10862b3)
 - #### [4장. 스트림 소개](https://leedongyeop.notion.site/chapter-4-aad6c8f3cbb94322a26aebc0cf3f9799)
+- #### [5장. 스트림 활용](https://leedongyeop.notion.site/chapter-5-74611b7c530d41b8b97cabd97fa0b2e3)
