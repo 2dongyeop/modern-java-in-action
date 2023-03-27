@@ -10,3 +10,5 @@
 - #### [3장. 람다 표현식](https://leedongyeop.notion.site/chapter-3-8709c08400bb4042817db74cb10862b3)
 - #### [4장. 스트림 소개](https://leedongyeop.notion.site/chapter-4-aad6c8f3cbb94322a26aebc0cf3f9799)
 - #### [5장. 스트림 활용](https://leedongyeop.notion.site/chapter-5-74611b7c530d41b8b97cabd97fa0b2e3)
+- #### [8장. 컬렉션 API 개선](https://leedongyeop.notion.site/chapter-8-API-de2118f4b44a4f8b84e4aebebd61dbe4)
+- #### [9장. 리팩토링, 테스팅, 디버깅](https://leedongyeop.notion.site/chapter-9-2d3251261d8a4ab098081e6934e93fe5)
