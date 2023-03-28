@@ -12,3 +12,4 @@
 - #### [5장. 스트림 활용](https://leedongyeop.notion.site/chapter-5-74611b7c530d41b8b97cabd97fa0b2e3)
 - #### [8장. 컬렉션 API 개선](https://leedongyeop.notion.site/chapter-8-API-de2118f4b44a4f8b84e4aebebd61dbe4)
 - #### [9장. 리팩토링, 테스팅, 디버깅](https://leedongyeop.notion.site/chapter-9-2d3251261d8a4ab098081e6934e93fe5)
+- #### [10장. 람다를 이용한 도메인 전용 언어](https://leedongyeop.notion.site/chapter-10-84a4da1bb2d445f4af3dffbcf4ae5bc5)
